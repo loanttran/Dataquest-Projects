@@ -23,3 +23,5 @@ What I have learned:
 #### [Visualizing Earnings Based on Collge Majors](https://github.com/loanttran/Dataquest-Projects/blob/master/Visualizing-Earnings-Based-on-College-Majors/notebook.ipynb)
 What I have learned:
 - use Pandas to quickly generate common plots from data in DataFrames
+
+<img src="./images/SCR-20230808-oeqs-2.png">
